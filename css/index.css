@@ -1,0 +1,36 @@
+body{
+    background-image: url(../images/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lgfp{
+    width: 100px;
+    margin: 40px 50px;
+    float: left;
+}
+#EMH1{
+    color: aliceblue;
+    text-align: center;
+    margin:180px 0px;
+    font-size: 62px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+nav{
+    float: right;
+}
+nav ul {
+    list-style: none;
+}
+nav li{
+    display: inline-block;
+    margin: 40px 30px;
+}
+nav ul li a{
+    color: #fff;;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: #fff;
+}
